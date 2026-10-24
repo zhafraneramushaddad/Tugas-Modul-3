@@ -16,6 +16,6 @@ Dikerjakan oleh: Zhafran Era Mushaddad (09040625101)
 ### 3. Menjalankan Frontend (React Native/Expo)
 1. Buka terminal baru dan masuk ke folder `mobile-auth-notif`.
 2. Jalankan perintah `npm install`.
-3. Buat file `.env` dan isi `EXPO_PUBLIC_API_URL=http://<IP_LAPTOP_ANDA>:3000`.
+3. Buat file `.env` dan isi `EXPO_PUBLIC_API_URL=http://192.168.1.6:3000`.
 4. Bersihkan cache dan jalankan aplikasi dengan perintah `npx expo start -c`.
 5. Scan QR Code menggunakan aplikasi Expo Go di Android/iOS.
